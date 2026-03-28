@@ -2468,8 +2468,8 @@ Coding, Build your own, Multi-agent
 
 ### Description
 - Adds structured engineering workflows to AI coding agents (Claude Code, Codex, Cursor, Windsurf, Copilot)
-- 56 slash commands with quality gates between every step: spec → plan → TDD → review → PR
-- 12 configurable coding rules with 8 built-in stack profiles (Go, Python, Java, Kotlin, React, etc.)
+- 67 slash commands with quality gates between every step: spec → plan → TDD → review → PR
+- 20 configurable coding rules with 8 built-in stack profiles (Go, Python, Java, Kotlin, React, etc.)
 - Agent memory carries architecture decisions and patterns across sessions
 - Rules are plain markdown — works with any AI coding tool
 
